@@ -1,0 +1,38 @@
+﻿  Entity.cpp
+  GameManager.cpp
+  Main.cpp
+  Scene0.cpp
+  This is wrong: Vec4 cross(const Vec4& a, const Vec4& b)
+  This questionable: Vec4 inverse(const Vec4& v)
+d:\Users\yana\Documents\WORK GAME PHYSIC\gravityWell\SDL_Project24.0.0\SDL_Project\Scene0.cpp(62,22): warning C4305: 'argument': truncation from 'double' to 'float'
+  Scene1.cpp
+  This is wrong: Vec4 cross(const Vec4& a, const Vec4& b)
+  This questionable: Vec4 inverse(const Vec4& v)
+d:\Users\yana\Documents\WORK GAME PHYSIC\gravityWell\SDL_Project24.0.0\SDL_Project\Scene1.cpp(57,55): warning C4244: 'argument': conversion from 'const Sint32' to 'float', possible loss of data
+d:\Users\yana\Documents\WORK GAME PHYSIC\gravityWell\SDL_Project24.0.0\SDL_Project\Scene1.cpp(57,39): warning C4244: 'argument': conversion from 'const Sint32' to 'float', possible loss of data
+d:\Users\yana\Documents\WORK GAME PHYSIC\gravityWell\SDL_Project24.0.0\SDL_Project\Scene1.cpp(76,22): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\Users\yana\Documents\WORK GAME PHYSIC\gravityWell\SDL_Project24.0.0\SDL_Project\Scene1.cpp(82,20): warning C4018: '<': signed/unsigned mismatch
+d:\Users\yana\Documents\WORK GAME PHYSIC\gravityWell\SDL_Project24.0.0\SDL_Project\Scene1.cpp(83,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+d:\Users\yana\Documents\WORK GAME PHYSIC\gravityWell\SDL_Project24.0.0\SDL_Project\Scene1.cpp(84,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\Users\yana\Documents\WORK GAME PHYSIC\gravityWell\SDL_Project24.0.0\SDL_Project\Scene1.cpp(106,20): warning C4018: '<': signed/unsigned mismatch
+  GravityWellScene.cpp
+  This is wrong: Vec4 cross(const Vec4& a, const Vec4& b)
+  This questionable: Vec4 inverse(const Vec4& v)
+d:\Users\yana\Documents\WORK GAME PHYSIC\gravityWell\SDL_Project24.0.0\SDL_Project\GravityWellScene.cpp(85,55): warning C4244: 'argument': conversion from 'const Sint32' to 'float', possible loss of data
+d:\Users\yana\Documents\WORK GAME PHYSIC\gravityWell\SDL_Project24.0.0\SDL_Project\GravityWellScene.cpp(85,39): warning C4244: 'argument': conversion from 'const Sint32' to 'float', possible loss of data
+d:\Users\yana\Documents\WORK GAME PHYSIC\gravityWell\SDL_Project24.0.0\SDL_Project\GravityWellScene.cpp(172,20): warning C4018: '<': signed/unsigned mismatch
+d:\Users\yana\Documents\WORK GAME PHYSIC\gravityWell\SDL_Project24.0.0\SDL_Project\GravityWellScene.cpp(173,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+d:\Users\yana\Documents\WORK GAME PHYSIC\gravityWell\SDL_Project24.0.0\SDL_Project\GravityWellScene.cpp(174,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\Users\yana\Documents\WORK GAME PHYSIC\gravityWell\SDL_Project24.0.0\SDL_Project\GravityWellScene.cpp(193,51): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\Users\yana\Documents\WORK GAME PHYSIC\gravityWell\SDL_Project24.0.0\SDL_Project\GravityWellScene.cpp(194,43): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\Users\yana\Documents\WORK GAME PHYSIC\gravityWell\SDL_Project24.0.0\SDL_Project\GravityWellScene.cpp(205,38): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\Users\yana\Documents\WORK GAME PHYSIC\gravityWell\SDL_Project24.0.0\SDL_Project\GravityWellScene.cpp(206,38): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\Users\yana\Documents\WORK GAME PHYSIC\gravityWell\SDL_Project24.0.0\SDL_Project\GravityWellScene.cpp(216,38): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\Users\yana\Documents\WORK GAME PHYSIC\gravityWell\SDL_Project24.0.0\SDL_Project\GravityWellScene.cpp(217,38): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\Users\yana\Documents\WORK GAME PHYSIC\gravityWell\SDL_Project24.0.0\SDL_Project\GravityWellScene.cpp(226,38): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\Users\yana\Documents\WORK GAME PHYSIC\gravityWell\SDL_Project24.0.0\SDL_Project\GravityWellScene.cpp(227,38): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\Users\yana\Documents\WORK GAME PHYSIC\gravityWell\SDL_Project24.0.0\SDL_Project\GravityWellScene.cpp(236,20): warning C4018: '<': signed/unsigned mismatch
+  Timer.cpp
+  Window.cpp
+  Generating Code...
+  SDL_Project.vcxproj -> d:\Users\yana\Documents\WORK GAME PHYSIC\gravityWell\SDL_Project24.0.0\Debug\SDL_Project.exe
